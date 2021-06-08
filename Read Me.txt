@@ -1,0 +1,7 @@
+How to install this plugin:
+1-Go on this path on you wordpres FTP:
+wp-content/plugin/add the folder input plugin  
+2-Go on Wordrpess dashboard  on plugin menu find the plugin "Button With input"
+3-Click On the menu exmple option to see the content 
+
+Git Repository - https://github.com/erimusa11/input.git
